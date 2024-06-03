@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunilcruz
+- 👋 Hi, I’m Ban Master
 - 👀 I’m here to help others
 - 🌱 I’m currently developing ban tools
 - 💞️ I’m looking to collaborate on ...
